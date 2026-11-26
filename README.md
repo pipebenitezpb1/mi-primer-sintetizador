@@ -1,7 +1,7 @@
 # Mi Primer Sintetizador · Max/MSP
 
 **Unidad 1 · Interfaces Sonoras · Entrega 3** · Taller de Diseño de Interfaces, Universidad Adolfo Ibáñez · 2026
-Autores: Luis-Felipe Benítez y Martín Donoso · Ficha: https://portafolio.insta3d.cl/sintetizador/
+Autores: Luis-Felipe Benitez y Martín Donoso · Ficha: https://portafolio.insta3d.cl/sintetizador/
 
 ## Objetivos
 - Construir un sintetizador sustractivo controlable en tiempo real.
